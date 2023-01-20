@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ada407a6.css",
+    "main.js": "/static/js/main.4bc9ba16.js",
+    "static/js/787.675c398b.chunk.js": "/static/js/787.675c398b.chunk.js",
+    "static/media/araabaik-placeholder.webp": "/static/media/araabaik-placeholder.56f94785320b017b873c.webp",
+    "static/media/arabaik.png": "/static/media/arabaik.7dcad926ecccf046e076.png",
+    "index.html": "/index.html",
+    "main.ada407a6.css.map": "/static/css/main.ada407a6.css.map",
+    "main.4bc9ba16.js.map": "/static/js/main.4bc9ba16.js.map",
+    "787.675c398b.chunk.js.map": "/static/js/787.675c398b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada407a6.css",
+    "static/js/main.4bc9ba16.js"
+  ]
+}
